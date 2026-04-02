@@ -8,8 +8,8 @@ This GitHub org holds a mix of projects: hands-on AI work I'm building in public
 
 Two apps from this portfolio are released:
 
+- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (private repo | [live app](https://techbees.me/studybuddy))
 - **WinCraft** - Log your career wins as they happen, and let AI turn them into resume bullets and summaries when it matters ([repo](https://github.com/boomie-techbees/wincraft-claude-code) | [live app](https://gleeful-puffpuff-8beac5.netlify.app))
-- **Study Buddy** - Flashcard and quiz app for learning your own notes and terminology ([live app](https://studybuddy-by-boomie.lovable.app/))
 
 ## AI Portfolio Highlights
 
