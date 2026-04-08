@@ -19,7 +19,7 @@ These are projects I built to evaluate tools, explore emerging patterns, and dem
 |---|---|---|---|
 | [agent-job-fit-analyzer](https://github.com/boomie-techbees/agent-job-fit-analyzer) | Autonomous agent that proactively scrapes job boards, scores listings against a candidate profile, and surfaces results in a web UI | Claude Code, Python, Flask | |
 | [security-questionnaire-assistant](https://github.com/boomie-techbees/security-questionnaire-assistant) | RAG-powered tool that answers security questionnaire questions from your own uploaded policy documents, with citations and Word export | Cursor, FastAPI, React, Claude API | |
-| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft maintained | Claude Code | [Try it] ((https://techbees.me/wincraft-app) (signup required) |
+| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft maintained | Claude Code | [Try it](https://techbees.me/wincraft-app) (signup required) |
 | [wincraft-bolt](https://github.com/boomie-techbees/wincraft-bolt) | WinCraft archived from tool comparison | Bolt.new | [Try it](https://win-journal-app-d2ig.bolt.host/) (signup required, dummy data OK) |
 | [wincraft-lovable](https://github.com/boomie-techbees/wincraft-lovable) | WinCraft archived from tool comparison | Lovable | [Try it](https://my-win-muse.lovable.app) (no signup, add your own data) |
 | [wincraft-replit](https://github.com/boomie-techbees/wincraft-replit) | WinCraft archived from tool comparison | Replit | [Try it](https://daily-wins-log--boomieo.replit.app) (includes test data) |
