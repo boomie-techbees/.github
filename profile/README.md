@@ -17,6 +17,7 @@ These are projects I built to evaluate tools, explore emerging patterns, and dem
 
 | Project | What it does | Tools Picked | Live Demo |
 |---|---|---|---|
+| [salone-vibes](https://github.com/boomie-techbees/salone-vibes) | Cultural companion app for Salone (Sierra Leonean) music — Krio dictionary powered by Claude API, live events, artist explorer, and personal playlist | Replit, React, PostgreSQL, Clerk, Claude API | (coming soon) |
 | [agent-job-fit-analyzer](https://github.com/boomie-techbees/agent-job-fit-analyzer) | Autonomous agent that proactively scrapes job boards, scores listings against a candidate profile, and surfaces results in a web UI | Claude Code, Python, Flask | |
 | [security-questionnaire-assistant](https://github.com/boomie-techbees/security-questionnaire-assistant) | RAG-powered tool that answers security questionnaire questions from your own uploaded policy documents, with citations and Word export | Cursor, FastAPI, React, Claude API | |
 | [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft maintained | Claude Code | [Try it](https://techbees.me/wincraft-app) (signup required) |
