@@ -1,15 +1,20 @@
 # Boomie (TechBees) 👋🏾
 
-I'm Boomie Odumade, an engineering leader with 20+ years building and scaling engineering orgs, and founder of [TechBees](https://techbees.me), where I provide fractional CTO and VP Engineering services as well as career coaching.
+I'm Boomie Odumade, an engineering leader with 20+ years building and scaling engineering orgs, and founder of [TechBees](https://techbees.me), where I provide:
+- fractional CTO/VPE services [techbees.me/engineering-leadership](https://techbees.me/engineering-leadership)
+- career coaching for individuals [techbees.me/coaching](https://techbees.me/coaching)
+- courses on tech & AI for all skill levels [techbees.me/learn](https://techbees.me/learn)
 
-This GitHub org holds a mix of projects: hands-on AI work I'm building in public, tools built for real use, and of course, private repos for my own work. The spotlight below is on the AI portfolio, but there's more here over time.
+This GitHub org holds a mix of projects: hands-on AI work I'm building in public, tools built for real use, and of course, private repos for my own work.
+
+Like a lot of people, I'm building with AI. I'm also blogging about it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai)
 
 ## Released Apps
 
-Two apps from this portfolio are released:
+Apps from this portfolio that are released:
 
 - **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (private repo | [live app](https://techbees.me/studybuddy))
-- **WinCraft** - Log your career wins as they happen, and let AI turn them into resume bullets and summaries when it matters ([repo](https://github.com/boomie-techbees/wincraft-claude-code) | [live app](https://techbees.me/wincraft-app))
+- **Salone Vibes** - An AI-powered app to explore Salone (Sierra Leonean) music: look up Krio words and phrases with cultural context, discover artists, browse events, save favorites, admin tools for bulk adding, and more. (private repo | [live app](https://techbees.me/salone-vibes) | [blog](https://techbees.me/blog/i-built-salone-vibes-app))
 
 ## AI Portfolio Highlights
 
@@ -17,22 +22,21 @@ These are projects I built to evaluate tools, explore emerging patterns, and dem
 
 | Project | What it does | Tools Picked | Live Demo |
 |---|---|---|---|
-| [salone-vibes](https://github.com/boomie-techbees/salone-vibes) | Cultural companion app for Salone (Sierra Leonean) music — Krio dictionary powered by Claude API, live events, artist explorer, and personal playlist | Replit, React, PostgreSQL, Clerk, Claude API | (coming soon) |
 | [agent-job-fit-analyzer](https://github.com/boomie-techbees/agent-job-fit-analyzer) | Autonomous agent that proactively scrapes job boards, scores listings against a candidate profile, and surfaces results in a web UI | Claude Code, Python, Flask | |
 | [security-questionnaire-assistant](https://github.com/boomie-techbees/security-questionnaire-assistant) | RAG-powered tool that answers security questionnaire questions from your own uploaded policy documents, with citations and Word export | Cursor, FastAPI, React, Claude API | |
-| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft maintained | Claude Code | [Try it](https://techbees.me/wincraft-app) (signup required) |
+| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft archived from tool comparison (live app will have different repo) | Claude Code | [Try it](https://gleeful-puffpuff-8beac5.netlify.app/) (uses local storage, no signup required) |
 | [wincraft-bolt](https://github.com/boomie-techbees/wincraft-bolt) | WinCraft archived from tool comparison | Bolt.new | [Try it](https://win-journal-app-d2ig.bolt.host/) (signup required, dummy data OK) |
 | [wincraft-lovable](https://github.com/boomie-techbees/wincraft-lovable) | WinCraft archived from tool comparison | Lovable | [Try it](https://my-win-muse.lovable.app) (no signup, add your own data) |
 | [wincraft-replit](https://github.com/boomie-techbees/wincraft-replit) | WinCraft archived from tool comparison | Replit | [Try it](https://daily-wins-log--boomieo.replit.app) (includes test data) |
 
 ## Why the same app across four tools?
 
-Building WinCraft in Bolt, Lovable, Replit, and Claude Code was intentional. Evaluating AI coding tools, not just using them, is part of my value as a technical leader. Each tool has different strengths, tradeoffs, and ideal use cases. The comparison was the point.
+Building WinCraft in Bolt, Lovable, Replit, and Claude Code was intentional. Evaluating AI coding tools, not just using them, is part of my value as a technical leader. Each tool has different strengths, tradeoffs, and ideal use cases. 
 
-You can learn more in [Building Out Loud with AI (Blog 1 of 2): Beginner's Edition](https://techbees.me/blog/building-out-loud-ai/beginners-edition) and [Building Out Loud with AI (Blog 2 of 2): Engineering Edition](https://techbees.me/blog/building-out-loud-ai/engineering-edition).
+The comparison was the point. And those comparisons are in the comparison blogs at [Building Out Loud with AI: Beginner's Edition](https://techbees.me/blog/building-out-loud-ai/beginners-edition) and [Building Out Loud with AI: Engineering Edition](https://techbees.me/blog/building-out-loud-ai/engineering-edition).
 
 ## About TechBees
 
 TechBees provides fractional CTO and VP Engineering services to companies that need senior engineering leadership without a full-time hire. I also coach engineers and engineering leaders navigating career transitions.
 
-[Website](https://techbees.me) | [LinkedIn](https://linkedin.com/in/odumade) | [Speaking](https://sessionize.com/boomie)
+[Website](https://techbees.me) | [LinkedIn](https://linkedin.com/in/odumade)
