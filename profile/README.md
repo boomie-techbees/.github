@@ -7,14 +7,18 @@ I'm Boomie Odumade, an engineering leader with 20+ years building and scaling en
 
 This GitHub org holds a mix of projects: hands-on AI work I'm building in public, tools built for real use, and of course, private repos for my own work.
 
-Like a lot of people, I'm building with AI. I'm also blogging about it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai)
+Like a lot of people, I'm building with AI. I'm also blogging about it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai), and all apps consolidate at [techbees.me/apps](https://techbees.me/apps)
 
 ## Released Apps
 
-Apps from this portfolio that are released:
+Apps from this portfolio that are released, all repos private:
 
-- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (private repo | [live app](https://techbees.me/studybuddy))
-- **Salone Vibes** - An AI-powered app to explore Salone (Sierra Leonean) music: look up Krio words and phrases with cultural context, discover artists, browse events, save favorites, admin tools for bulk adding, and more. (private repo | [live app](https://techbees.me/salone-vibes) | [blog](https://techbees.me/blog/i-built-salone-vibes-app))
+- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
+  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting)
+- **Salone Vibes** - An AI-powered app to explore Salone (Sierra Leonean) music: look up Krio words and phrases with cultural context, discover artists, browse events, save favorites, admin tools for bulk adding, and more. (live app at [salone-vibes.techbees.me](https://salone-vibes.techbees.me) | [blog](https://techbees.me/blog/i-built-salone-vibes-app))
+  - Built with: Cursor, Claude API, Tavily, Whisper. Hosted on Railway (API + Postgres).
+- **WinCraft** - A wins tracker that helps you log professional and personal wins as they happen, then turns them into AI-powered summaries and resume bullets.  ([live app at wincraft.techbees.me](https://wincraft.techbees.me) | blogs for demo versions at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai))
+  - Built with: Claude Code, Next.js, Supabase, Vercel, Anthropic API
 
 ## AI Portfolio Highlights
 
@@ -24,7 +28,7 @@ These are projects I built to evaluate tools, explore emerging patterns, and dem
 |---|---|---|---|
 | [agent-job-fit-analyzer](https://github.com/boomie-techbees/agent-job-fit-analyzer) | Autonomous agent that proactively scrapes job boards, scores listings against a candidate profile, and surfaces results in a web UI | Claude Code, Python, Flask | |
 | [security-questionnaire-assistant](https://github.com/boomie-techbees/security-questionnaire-assistant) | RAG-powered tool that answers security questionnaire questions from your own uploaded policy documents, with citations and Word export | Cursor, FastAPI, React, Claude API | |
-| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft archived from tool comparison (live app will have different repo) | Claude Code | [Try it](https://gleeful-puffpuff-8beac5.netlify.app/) (uses local storage, no signup required) |
+| [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft archived from tool comparison | Claude Code | [Try it](https://gleeful-puffpuff-8beac5.netlify.app/) (uses local storage, no signup required) |
 | [wincraft-bolt](https://github.com/boomie-techbees/wincraft-bolt) | WinCraft archived from tool comparison | Bolt.new | [Try it](https://win-journal-app-d2ig.bolt.host/) (signup required, dummy data OK) |
 | [wincraft-lovable](https://github.com/boomie-techbees/wincraft-lovable) | WinCraft archived from tool comparison | Lovable | [Try it](https://my-win-muse.lovable.app) (no signup, add your own data) |
 | [wincraft-replit](https://github.com/boomie-techbees/wincraft-replit) | WinCraft archived from tool comparison | Replit | [Try it](https://daily-wins-log--boomieo.replit.app) (includes test data) |
