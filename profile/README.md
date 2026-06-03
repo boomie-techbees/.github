@@ -22,7 +22,7 @@ Apps from this portfolio that are released, all repos private unless otherwise s
 - **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
   - Built with: Lovable (including Lovable Cloud, AI gateway, hosting)
 - **PlainDocs** - An AI-powered document explainer that breaks down legal documents, terms of service, contracts, and policies into plain language, with multiple output language choices. (live app at [plaindocs.techbees.me](https://plaindocs.techbees.me))
-  - Built with: Amazon Bedrock (Nova Lite), AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Lovable for frontend and hosting.
+  - Built with: Amazon Bedrock (Nova Lite), Bedrock Guardrails, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, Lovable for frontend and hosting.
   - Repos:
     - [github.com/boomie-techbees/plaindocs-explained](https://github.com/boomie-techbees/plaindocs-explained) for frontend
     - [github.com/boomie-techbees/plaindocs-backend](https://github.com/boomie-techbees/plaindocs-backend) for backend (e.g. Lambda code).
