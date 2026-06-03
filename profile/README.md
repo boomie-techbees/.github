@@ -1,13 +1,15 @@
 # Boomie (TechBees) 👋🏾
 
 I'm Boomie Odumade, an engineering leader with 20+ years building and scaling engineering orgs, and founder of [TechBees](https://techbees.me), where I provide:
-- fractional CTO/VPE services [techbees.me/engineering-leadership](https://techbees.me/engineering-leadership)
-- career coaching for individuals [techbees.me/coaching](https://techbees.me/coaching)
-- courses on tech & AI for all skill levels [techbees.me/learn](https://techbees.me/learn)
+- Fractional CTO/VPE services [techbees.me/engineering-leadership](https://techbees.me/engineering-leadership)
+- Career coaching for individuals [techbees.me/coaching](https://techbees.me/coaching)
+- Courses on tech & AI for all skill levels [techbees.me/learn](https://techbees.me/learn)
 
 This GitHub org holds a mix of projects: hands-on AI work I'm building in public, tools built for real use, and of course, private repos for my own work.
 
-Like a lot of people, I'm building with AI. I'm also blogging about it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai), and all apps consolidate at [techbees.me/apps](https://techbees.me/apps)
+Like a lot of people, I'm building with AI. 
+- All apps are at [techbees.me/apps](https://techbees.me/apps)
+- I'm also blogging about some of it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai)
 
 ## Released Apps
 
