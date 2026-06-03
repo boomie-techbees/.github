@@ -13,14 +13,20 @@ Like a lot of people, I'm building with AI.
 
 ## Released Apps
 
-Apps from this portfolio that are released, all repos private:
+Apps from this portfolio that are released, all repos private unless otherwise stated:
 
-- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
-  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting)
 - **Salone Vibes** - An AI-powered app to explore Salone (Sierra Leonean) music: look up Krio words and phrases with cultural context, discover artists, browse events, save favorites, admin tools for bulk adding, and more. (live app at [salone-vibes.techbees.me](https://salone-vibes.techbees.me) | [blog](https://techbees.me/blog/i-built-salone-vibes-app))
   - Built with: Cursor, Claude API, Tavily, Whisper. Hosted on Railway (API + Postgres).
 - **WinCraft** - A wins tracker that helps you log professional and personal wins as they happen, then turns them into AI-powered summaries and resume bullets.  ([live app at wincraft.techbees.me](https://wincraft.techbees.me) | blogs for demo versions at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai))
   - Built with: Claude Code, Next.js, Supabase, Vercel, Anthropic API
+- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
+  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting)
+- **PlainDocs** - An AI-powered document explainer that breaks down legal documents, terms of service, contracts, and policies into plain language, with multiple output language choices. (live app at [plaindocs.techbees.me](https://plaindocs.techbees.me))
+  - Built with: Amazon Bedrock, Claude, AWS Lambda, API Gateway, and Lovable for frontend.
+  - Repos:
+    - [github.com/boomie-techbees/plaindocs-explained](https://github.com/boomie-techbees/plaindocs-explained) for frontend
+    - [github.com/boomie-techbees/plaindocs-backend](https://github.com/boomie-techbees/plaindocs-backend) for backend (e.g. Lambda code).
+
 
 ## AI Portfolio Highlights
 
