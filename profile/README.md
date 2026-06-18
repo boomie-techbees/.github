@@ -28,12 +28,14 @@ Apps from this portfolio that are released, all repos private unless otherwise s
     - [github.com/boomie-techbees/plaindocs-backend](https://github.com/boomie-techbees/plaindocs-backend) for backend (e.g. Lambda code).
 
 
-## AI Portfolio Highlights
+## AI Prototypes or Demos
 
 These are projects I built to evaluate tools, explore emerging patterns, and demonstrate what's possible with today's AI coding ecosystem.
 
 | Project | What it does | Tools Picked | Live Demo |
 |---|---|---|---|
+| ghana-prototype-vibes | Throwaway prototype comparing a few music APIs on coverage for Ghanaian artists. Includes AI-generated bios via Claude and origin signal enrichment. Built to validate data quality before committing to a full Ghana Vibes fork. | Lovable, Last.fm, Deezer, YouTube API, Anthropic API | [ghana-prototype-vibes.techbees.me](https://ghana-prototype-vibes.techbees.me) |
+| slack-aggregator | Unified dashboard showing Slack unreads and bookmarks across multiple workspaces. Built and deployed; removed after hitting Slack workspace admin install policy wall. | Kiro, Node/Express, React, PostgreSQL, Railway | — |
 | [agent-job-fit-analyzer](https://github.com/boomie-techbees/agent-job-fit-analyzer) | Autonomous agent that proactively scrapes job boards, scores listings against a candidate profile, and surfaces results in a web UI | Claude Code, Python, Flask | |
 | [security-questionnaire-assistant](https://github.com/boomie-techbees/security-questionnaire-assistant) | RAG-powered tool that answers security questionnaire questions from your own uploaded policy documents, with citations and Word export | Cursor, FastAPI, React, Claude API | |
 | [wincraft-claude-code](https://github.com/boomie-techbees/wincraft-claude-code) | WinCraft archived from tool comparison | Claude Code, hosted on Netlify | [Try it](https://gleeful-puffpuff-8beac5.netlify.app/) (uses local storage, no signup required) |
