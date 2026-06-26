@@ -10,6 +10,7 @@ This GitHub org holds a mix of projects: hands-on AI work I'm building in public
 Like a lot of people, I'm building with AI. 
 - All apps are at [techbees.me/apps](https://techbees.me/apps)
 - I'm also blogging about some of it at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai)
+- Apps are not only shipped but also built with intentional comprehension practices.
 
 ## Released Apps
 
@@ -17,16 +18,18 @@ Apps from this portfolio that are released, all repos private unless otherwise s
 
 - **Salone Vibes** - An AI-powered app to explore Salone (Sierra Leonean) music: look up Krio words and phrases with cultural context, discover artists, browse events, save favorites, admin tools for bulk adding, and more. (live app at [salone-vibes.techbees.me](https://salone-vibes.techbees.me) | [blog](https://techbees.me/blog/i-built-salone-vibes-app))
   - Built with: Cursor, Claude API, Tavily, Whisper. Hosted on Railway (API + Postgres).
+  - The most technically complex app in the portfolio so far including multiple AI agents.
 - **WinCraft** - A wins tracker that helps you log professional and personal wins as they happen, then turns them into AI-powered summaries and resume bullets.  ([live app at wincraft.techbees.me](https://wincraft.techbees.me) | blogs for demo versions at [techbees.me/blog/building-out-loud-ai](https://techbees.me/blog/building-out-loud-ai))
   - Built with: Claude Code, Next.js, Supabase, Vercel, Anthropic API
-- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
-  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting)
 - **PlainDocs** - An AI-powered document explainer that breaks down legal documents, terms of service, contracts, and policies into plain language, with multiple output language choices. (live app at [plaindocs.techbees.me](https://plaindocs.techbees.me))
   - Built with: Amazon Bedrock (Nova Lite), Bedrock Guardrails, Amazon Comprehend, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, Lovable for frontend and hosting.
   - Repos:
     - [github.com/boomie-techbees/plaindocs-explained](https://github.com/boomie-techbees/plaindocs-explained) for frontend
     - [github.com/boomie-techbees/plaindocs-backend](https://github.com/boomie-techbees/plaindocs-backend) for backend (e.g. Lambda code).
-
+- **African Song Translations** - View existing African song translations or request one and get an answer in under a minute. Translations include cultural context. Play the song and read along for extra fun. (live app at [african-song-translations.techbees.me](https://african-song-translations.techbees.me))
+  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting), Supabase, Anthropic API
+- **Study Buddy** - Turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
+  - Built with: Lovable (including Lovable Cloud, AI gateway, hosting), Supabase
 
 ## AI Prototypes or Demos
 
