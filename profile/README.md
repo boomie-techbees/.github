@@ -26,9 +26,9 @@ Apps from this portfolio that are released, all repos private unless otherwise s
   - Repos:
     - [github.com/boomie-techbees/plaindocs-explained](https://github.com/boomie-techbees/plaindocs-explained) for frontend
     - [github.com/boomie-techbees/plaindocs-backend](https://github.com/boomie-techbees/plaindocs-backend) for backend (e.g. Lambda code).
-- **African Song Translations** - An app to view existing African song translations or request one and get an answer in under a minute. Translations include cultural context. Play the song and read along for extra fun. (live app at [african-song-translations.techbees.me](https://african-song-translations.techbees.me))
+- **African Song Translations** - An AI-powered app to view existing African song translations or request one and get an answer in under a minute. Translations include cultural context. Play the song and read along for extra fun. (live app at [african-song-translations.techbees.me](https://african-song-translations.techbees.me))
   - Built with: Lovable (including Lovable Cloud, AI gateway, hosting), Supabase, Anthropic API
-- **Study Buddy** - An app to turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
+- **Study Buddy** - An AI-powered app to turn your notes into flashcards and quizzes. Built for anyone who's constantly onboarding into new terminology, systems, or clients, including consultants, fractional leaders, new hires, and fast learners. (live app at [study-buddy.techbees.me](https://study-buddy.techbees.me))
   - Built with: Lovable (including Lovable Cloud, AI gateway, hosting), Supabase
 
 ## AI Prototypes or Demos
