@@ -1,7 +1,7 @@
 # Boomie (TechBees) 👋🏾
 
 I'm Boomie Odumade, an engineering leader with 20+ years building and scaling engineering orgs, and founder of [TechBees](https://techbees.me), where I provide:
-- Fractional CTO/VPE services [techbees.me/engineering-leadership](https://techbees.me/engineering-leadership)
+- Engineering Leadership [techbees.me/engineering-leadership](https://techbees.me/engineering-leadership)
 - Career coaching for individuals [techbees.me/coaching](https://techbees.me/coaching)
 - Courses on tech & AI for all skill levels [techbees.me/learn](https://techbees.me/learn)
 
@@ -52,8 +52,6 @@ Building WinCraft in Bolt, Lovable, Replit, and Claude Code was intentional. Eva
 
 The comparison was the point. And those comparisons are in the comparison blogs at [Building Out Loud with AI: Beginner's Edition](https://techbees.me/blog/building-out-loud-ai/beginners-edition) and [Building Out Loud with AI: Engineering Edition](https://techbees.me/blog/building-out-loud-ai/engineering-edition).
 
-## About TechBees
-
-TechBees provides fractional CTO and VP Engineering services to companies that need senior engineering leadership without a full-time hire. I also coach engineers and engineering leaders navigating career transitions.
+## Contact Me
 
 [Website](https://techbees.me) | [LinkedIn](https://linkedin.com/in/odumade)
